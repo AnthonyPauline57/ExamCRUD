@@ -1,0 +1,17 @@
+@font-face {
+    font-family: NEON;
+    src: url(./Neon.ttf);
+}
+
+.fond{
+    background-image: url('../img/gamer.png');
+    background-size: 100% auto;
+}
+
+.middle{
+    text-align: center;
+    margin-top: 700px;
+    color: white;
+    font-size: large; 
+    font-family: NEON;
+}
